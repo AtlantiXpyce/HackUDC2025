@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://crjwrda61r3fj"]
-
-[ext_resource type="Texture2D" uid="uid://c52g0g6bkcm1m" path="res://recursos/placeholder/pedra.jpeg" id="1_tmnui"]
-
-[node name="Pedra" type="Sprite2D"]
-scale = Vector2(0.0625, 0.0625)
-texture = ExtResource("1_tmnui")
-centered = false

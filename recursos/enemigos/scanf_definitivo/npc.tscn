@@ -1,6 +1,6 @@
 [gd_scene load_steps=8 format=3 uid="uid://dsghpc0tjh1pf"]
 
-[ext_resource type="Script" path="res://npc_area.gd" id="1_d5o1h"]
+[ext_resource type="Script" path="res://recursos/enemigos/npc_area.gd" id="1_d5o1h"]
 [ext_resource type="Texture2D" uid="uid://coa76ywnoxjvj" path="res://recursos/enemigos/scanf_definitivo/scanf_definitivo.png" id="1_gp3lv"]
 
 [sub_resource type="GDScript" id="GDScript_efemi"]
